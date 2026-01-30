@@ -11,7 +11,7 @@ title:            Aditi Vijayan
 tagline:          'Research Scientist | Arizona State University'
 description:      'A computational astrophysicist researching galaxy formation and evolution.'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
